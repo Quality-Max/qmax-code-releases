@@ -50,10 +50,11 @@ curl -fsSL https://get.qualitymax.io/code | sh
 | Windows x64 | [qmax-code-windows-amd64.zip](https://github.com/Quality-Max/qmax-code-releases/releases/latest/download/qmax-code-windows-amd64.zip) |
 | Windows ARM | [qmax-code-windows-arm64.zip](https://github.com/Quality-Max/qmax-code-releases/releases/latest/download/qmax-code-windows-arm64.zip) |
 
-**Or with Go:**
+**Or move the binary manually:**
 
 ```bash
-go install github.com/qualitymax/qmax-code@latest
+# After downloading and extracting:
+chmod +x qmax-code-* && sudo mv qmax-code-* /usr/local/bin/qmax-code
 ```
 
 ## Quick Start
