@@ -25,7 +25,7 @@
 
 **The first AI testing agent built for your terminal.**
 
-50 QA tools, natural language interface, self-healing scripts, cloud execution, k6 load testing — all from the command line. Nothing else does this.
+48 MCP tools, natural language interface, self-healing scripts, cloud execution, k6 load testing — all from the command line. Nothing else does this.
 
 [Product Page](https://qualitymax.io/qmax-code) · [QualityMax Platform](https://app.qualitymax.io) · [Releases](https://github.com/Quality-Max/qmax-code-releases/releases)
 
@@ -36,7 +36,7 @@
 **One command:**
 
 ```bash
-curl -fsSL https://get.qualitymax.io/code | sh
+curl -sL https://qualitymax.io/static/install-qmax-code.sh | bash
 ```
 
 **Or download a binary:**
@@ -61,7 +61,7 @@ chmod +x qmax-code-* && sudo mv qmax-code-* /usr/local/bin/qmax-code
 
 ```bash
 # Install
-curl -fsSL https://get.qualitymax.io/code | sh
+curl -sL https://qualitymax.io/static/install-qmax-code.sh | bash
 
 # Launch — interactive setup guides you through login
 qmax-code
@@ -99,7 +99,7 @@ qmax > heal the failures
   ✓ Re-run: 8/8 passed
 ```
 
-### 50 Tools Across 8 Categories
+### 48 Tools Across 8 Categories
 
 | Category | Tools | What they do |
 |----------|-------|-------------|
@@ -176,6 +176,7 @@ Built-in Bugsink integration. Panics and errors reported automatically so we can
 - [QualityMax Platform](https://app.qualitymax.io)
 - [API Documentation](https://qualitymax.io/api-guide)
 - [Blog](https://qualitymax.io/blog)
+- [Building qmax-code: Why We Built Our Own AI Testing Agent](https://qualitymax.io/blog/building-qmax-code)
 
 ## License
 
