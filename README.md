@@ -36,7 +36,7 @@
 **One command:**
 
 ```bash
-curl -sL https://qualitymax.io/static/install-qmax-code.sh | bash
+curl -sL https://qualitymax.io/static/install-qmax-code.txt | bash
 ```
 
 **Or download a binary:**
@@ -61,7 +61,7 @@ chmod +x qmax-code-* && sudo mv qmax-code-* /usr/local/bin/qmax-code
 
 ```bash
 # Install
-curl -sL https://qualitymax.io/static/install-qmax-code.sh | bash
+curl -sL https://qualitymax.io/static/install-qmax-code.txt | bash
 
 # Launch — interactive setup guides you through login
 qmax-code
