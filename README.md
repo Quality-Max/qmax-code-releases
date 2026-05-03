@@ -27,7 +27,10 @@
 
 48 MCP tools, natural language interface, self-healing scripts, cloud execution, k6 load testing — all from the command line. Nothing else does this.
 
-[Product Page](https://qualitymax.io/qmax-code) · [QualityMax Platform](https://app.qualitymax.io) · [Releases](https://github.com/Quality-Max/qmax-code-releases/releases)
+[Product Page](https://qualitymax.io/qmax-code) · [QualityMax Platform](https://app.qualitymax.io) · [Source Code](https://github.com/Quality-Max/qmax-code) · [Releases](https://github.com/Quality-Max/qmax-code-releases/releases)
+
+> **This is the releases repository** — binary downloads and install scripts only.
+> The source code lives at [Quality-Max/qmax-code](https://github.com/Quality-Max/qmax-code).
 
 ---
 
@@ -174,13 +177,14 @@ Built-in Bugsink integration. Panics and errors reported automatically so we can
 
 - [Product Page](https://qualitymax.io/qmax-code)
 - [QualityMax Platform](https://app.qualitymax.io)
+- [Source Code](https://github.com/Quality-Max/qmax-code)
 - [API Documentation](https://qualitymax.io/api-guide)
 - [Blog](https://qualitymax.io/blog)
 - [Building qmax-code: Why We Built Our Own AI Testing Agent](https://qualitymax.io/blog/building-qmax-code)
 
 ## License
 
-Proprietary. Free to use with a QualityMax account (including free BYOLLM tier).
+[FSL-1.1-ALv2](LICENSE) — free to use for non-competing purposes. Converts to Apache 2.0 two years after each release.
 
 ---
 
