@@ -15,6 +15,8 @@
 
 # qmax-code
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buymeacoffee)](https://buymeacoffee.com/qualitymax)
+
 **AI-powered terminal agent for QualityMax.** Named after Max, the real cat who inspired it all.
 
 <p align="center">
