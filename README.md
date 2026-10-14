@@ -23,4 +23,4 @@ The separate [qmax local agent](https://github.com/Quality-Max/qmax-local-agent)
 
 Report source and application issues in [qmax-code](https://github.com/Quality-Max/qmax-code/issues). For missing or incorrect distribution assets, use [this repository's issue tracker](https://github.com/Quality-Max/qmax-code-releases/issues).
 
-qmax-code is **source-available**, under [FSL-1.1-ALv2](https://github.com/Quality-Max/qmax-code/blob/main/LICENSE), with an Apache-2.0 future grant. Consult the license for permitted uses. Other QualityMax tools use their own licenses; see the [tool directory](https://docs.qualitymax.io/free-and-open-source/).
+qmax-code **v1.38.0 and later are open source under [Apache License 2.0](https://github.com/Quality-Max/qmax-code/blob/main/LICENSE)**. Read the [release announcement](https://github.com/Quality-Max/qmax-code/releases/tag/v1.38.0). Earlier release artifacts retain their original license terms. Third-party dependencies retain their own licenses; new release archives include those notices. Other QualityMax tools use their own licenses; see the [tool directory](https://docs.qualitymax.io/free-and-open-source/).
